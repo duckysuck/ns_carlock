@@ -2,6 +2,8 @@ ns_carlock
 
 (ESX Legacy)
 
+Requirements: https://github.com/NickScripts/ns_notify and https://github.com/NickScripts/progressbars
+
 Features:
 - Car locking script 
 - Fully customizable
